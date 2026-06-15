@@ -1,7 +1,9 @@
 ---
 title: Template for Knowledge Base Docs Websites
 ---
-## The index page
+## Book Club
+
+This page will be dedicated to my book club experience. It will share reviews, recommendations, and more.
 
 This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
 
