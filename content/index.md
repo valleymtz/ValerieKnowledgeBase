@@ -4,9 +4,19 @@ title: Template for Knowledge Base Docs Websites
 ## Book Club
 
 This page will be dedicated to my book club experience. It will share reviews, recommendations, and more.
+## Main Categories
+
+*- [[home/index|Home]]*
+*- [[about/index|About]]*
+*- [[reading-list/index|Reading List]]*
+*- [[book-reviews/index|Book Reviews]]*
+*- [[meetings/index|Meetings]]*
+*- [[shop/index|Shop]]*
+*- [[links/index|Links]]*
+
+
 
 This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
-
 ## Editing pages
 
 You can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor. 
