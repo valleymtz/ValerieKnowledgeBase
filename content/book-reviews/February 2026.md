@@ -1,6 +1,7 @@
 # A Love Letter to Whiskey
 **By Kandi Steiner**
 
+![[content/images/A Love Letter to Whiskey.jpg|100]]
 
 > "Sometimes we’re more terrified of the good things in life than we are of the bad. We feel we don’t deserve them, or that they aren’t real, that they’ll disappear quickly and easily and we’ll be left in the ruins." *- Kandi Steiner, A Love Letter to Whiskey*
 
