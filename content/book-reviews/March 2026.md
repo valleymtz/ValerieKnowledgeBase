@@ -1,7 +1,7 @@
 # The Women
 **By Kristin Hannah**
 
-![[The Women.jpg|100]]
+![[content/images/The Women.jpg|100]]
 
 > "The women had a story to tell, even if the world wasn’t quite yet ready to hear it, and their story began with three simple words. We were there." *- Kristin Hannah, The Women*
 

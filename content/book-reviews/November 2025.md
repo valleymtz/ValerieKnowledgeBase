@@ -1,7 +1,7 @@
 # Remain: A Supernatural Love Story
 **By Nicholas Sparks, M. Night Shyamalan**
 
-![[Remain.jpg|100]]
+![[content/images/Remain.jpg|100]]
 
 > "More than anything, she taught me to believe in the idea that love will find me when I least expect it, but that it’s up to me to be ready to receive it." *- Nicholas Sparks & M. Night Shyamalan, Remain: A Supernatural Love Story*
 

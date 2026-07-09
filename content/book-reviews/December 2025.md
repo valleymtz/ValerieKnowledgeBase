@@ -1,7 +1,7 @@
 # Everyone Knows How Much I Love You
 **By Kyle McCarthy**
 
-![[Everyone Knows How Much I Love You.jpg|100]]
+![[content/images/Everyone Knows How Much I Love You.jpg|100]]
 
 > "I saw-as I hadn't before-that behind this smooth woman there was a nerdy girl who had once taken refuge in books." *- Kyle McCarthy, Everyone Knows How Much I Love You*
 

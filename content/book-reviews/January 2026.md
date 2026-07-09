@@ -1,7 +1,7 @@
 # The Coworker
 **By Freida McFadden**
 
-![[The Coworker.jpg|100]]
+![[content/images/The Coworker.jpg|100]]
 
 > "Whatever else you can fake, it’s hard to fake being a genuinely kind person. It’s also exceedingly rare." *- Freida McFadden, The Coworker*
 
