@@ -11,7 +11,6 @@
 ##### Author Provided Resources
 - [Setting](https://nicholassparks.com/work/remain/)
 ![[content/assets/remain-setting-cape-cod.jpg]]
-
 ##### Additional Reads by the Authors
 - **The Notebook** *by Nicholas Sparks*
 - **A Walk to Remember** *by Nicholas Sparks*
