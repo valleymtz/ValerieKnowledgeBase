@@ -1,7 +1,7 @@
 # Remain: A Supernatural Love Story
 **By Nicholas Sparks, M. Night Shyamalan**
 
-![[content/images/Remain.jpg|200]]
+![[../images/Remain.jpg|200]]
 
 > "More than anything, she taught me to believe in the idea that love will find me when I least expect it, but that it’s up to me to be ready to receive it." *- Nicholas Sparks & M. Night Shyamalan, Remain: A Supernatural Love Story*
 
@@ -10,7 +10,7 @@
 
 ##### Author Provided Resources
 - [Setting](https://nicholassparks.com/work/remain/)
-![[content/assets/remain-setting-cape-cod.jpg]]
+![[../assets/remain-setting-cape-cod.jpg]]
 ##### Additional Reads by the Authors
 - **The Notebook** *by Nicholas Sparks*
 - **A Walk to Remember** *by Nicholas Sparks*
