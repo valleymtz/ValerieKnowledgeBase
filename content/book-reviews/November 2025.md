@@ -19,4 +19,4 @@
 - **Signs** *by M. Night Shyamalan*
 - **Sixth Sense** *by M. Night Shyamalan*
 
-[[December 2025|Next Review]]
+[[content/home/index|Home]] | [[December 2025|Next Review]] | [[content/book-reviews/index|Book Reviews]]

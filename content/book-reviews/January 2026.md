@@ -15,4 +15,4 @@
 - **The Inmate** *by Freida McFadden*
 - **The Tenant** *by Freida McFadden*
 
-[[December 2025|Previous Review]]  |  [[February 2026|Next Review]]
+[[content/home/index|Home]] | [[December 2025|Previous Review]] | [[February 2026|Next Review]] | [[content/book-reviews/index|Book Reviews]]

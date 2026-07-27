@@ -1,3 +1,4 @@
+[[content/home/index|Home]]
 ## Related Categories
 Interested in reading along before we review a book? Check out our [[reading-list/index|reading list]] for our upcoming reads.
 
@@ -7,3 +8,6 @@ Interested in reading along before we review a book? Check out our [[reading-lis
 - [[January 2026]]
 - [[February 2026]]
 - [[March 2026]]
+- [[April 2026]]
+- [[May 2026]]
+- [[June 2026]]

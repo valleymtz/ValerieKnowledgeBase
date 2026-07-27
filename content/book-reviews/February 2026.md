@@ -13,4 +13,4 @@
 - **Fair Catch (Red Zone Rivals, #1)** *by Kandi Steiner*
 - **Meet Your Match (Kings of the Ice, #1)** *by Kandi Steiner*
 
-[[January 2026|Previous Review]]  |  [[March 2026|Next Review]] 
+[[content/home/index|Home]] | [[January 2026|Previous Review]] | [[March 2026|Next Review]] | [[content/book-reviews/index|Book Reviews]]

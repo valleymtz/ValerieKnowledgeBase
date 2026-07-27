@@ -11,4 +11,4 @@
 ##### Additional Reads by the Author
 - **Immersions** *by Kyle McCarthy*
 
-[[November 2025|Previous Review]]  |  [[January 2026|Next Review]]
+[[content/home/index|Home]] | [[November 2025|Previous Review]]  |  [[January 2026|Next Review]] | [[content/book-reviews/index|Book Reviews]]

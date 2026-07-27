@@ -9,7 +9,7 @@ This page will be dedicated to my book club experience. It will share reviews, r
 *- [[home/index|Home]]*
 *- [[about/index|About]]*
 *- [[reading-list/index|Reading List]]*
-*- [[book-reviews/index|Book Reviews]]*
+*- [[content/book-reviews/index|Book Reviews]]*
 *- [[meetings/index|Meetings]]*
 *- [[shop/index|Shop]]*
 *- [[links/index|Links]]*

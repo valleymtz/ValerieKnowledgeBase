@@ -16,4 +16,4 @@
 - **The Four Winds** *by Kristin Hannah*
 - **Firefly Lane** *by Kristin Hannah*
 
-[[February 2026|Previous Review]]
+[[content/home/index|Home]] | [[February 2026|Previous Review]]  |  [[April 2026|Next Review]] | [[content/book-reviews/index|Book Reviews]]
